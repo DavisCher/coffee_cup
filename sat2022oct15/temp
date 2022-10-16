@@ -1,0 +1,17 @@
+    <div class="header">
+        <div class="logo">OCTOBER PROJECT</div>
+
+        <div class="nav">
+            <li>Home</li>
+            <li>About</li>
+            <li>Blog</li>
+            <li>Contact</li>
+            </div>
+        </div>
+
+        <div class="hero">
+        <h2>October Project</h2>
+        <p>This project give me a opportunity to display my html skills.</p>
+        <p>Html will be displayed through out this webpage. Html is the most</p>
+        <p>widely used language on web to develop web pages. Css will be used</p>
+        <p>to describe the presentation of a document written in html.</p>
