@@ -12,8 +12,8 @@ background-image: url(orange_ball.png);
 
 
 
-.header{background-color: rgb(255, 81, 0, 0.75); clear:both; overflow: auto;}
-.logo{float:left; color: rgba(71, 10, 238, 0.856); padding:10px; font-size: 40px;}
+.header{background-color: #df470b; clear:both; overflow: auto;}
+.logo{float:left; color: #e2dfebec; padding:10px; font-size: 40px;}
 .nav{ float:right; color: white;}
 
    
@@ -29,6 +29,8 @@ font-size: 20px ;
 .hero p{text-align: center;}
 
 /* Clear floats after the columns */
+.row{color: white;}
+
 .row{ height: 400px;}
 .row:after {
  content: "";
@@ -57,27 +59,6 @@ font-size: 20px ;
 ul{
    list-style: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
